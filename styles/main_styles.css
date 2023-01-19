@@ -4,3 +4,13 @@ body {
     background-color: bisque;
     color: maroon;
 }
+
+p {
+    color: black;
+    font-size: 16px;
+}
+
+#copyright {
+    color: darkgrey;
+    font-size: 10px;
+}
